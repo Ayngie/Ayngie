@@ -2,9 +2,9 @@
 
 Welcome to my GitHub!
 
-I've just finished working on my degree project for Frontend Developer studies at Medieinstitutet Stockholm.
+I've just finished working on my degree project for my Frontend Developer studies at Medieinstitutet Stockholm (2022-2024).
 
-See my degree project [deployed](https://ayngie.github.io/natural-guide-to-gestational-diabetes/)🛸 and check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓✨️
+Visit the [deployed site](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸 for my degree project and check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓 ✨️
 
 Happy reading and happy coding!
 
