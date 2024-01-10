@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub!
 
+### Degree project
 I've just finished working on my degree project for my Frontend Developer studies at Medieinstitutet Stockholm (2022-2024).
 
 Visit the [deployed site](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸 for my degree project and check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓 ✨️
+
+### Past school projects
+My public repos also include a variety of older school projects I have coded during my years at Medieinstitutet. 
 
 Happy reading and happy coding!
 
