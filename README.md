@@ -7,8 +7,10 @@ I've just finished working on my degree project for my Frontend Developer studie
 
 Visit the [deployed site](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸 for my degree project and check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓 ✨️
 
+(FYI that there is an identical repo for my degree project - just with a swedish title - [here](https://github.com/Ayngie/naturlig-guide-till-graviditetsdiabetes), to help people searching for info in swedish to get better chance of finding this information).
+
 ### Past school projects
-My public repos also include a variety of older school projects I have coded during my years at Medieinstitutet. 
+My public repos also include a variety of older school projects I have coded during my years at Medieinstitutet. Including (but not limited to :) ) my portfolio - view it live [here](https://ayngie.github.io/portfolio2.0/).
 
 Happy reading and happy coding!
 
