@@ -7,7 +7,7 @@ I am a Web Developer with a degree from Medieinstitutets Frontend Developer educ
 ### Degree project - A Natural Guide to Gestational Diabetes
 Check out my degree project for my Frontend Developer studies - a guide to help women with Gestational Diabetes manage their blood sugar naturally!
 
-Visit the deployed site: [A Natural Guide to Gestational Diabetes](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸!
+Visit the deployed site --> [A Natural Guide to Gestational Diabetes](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸!
 
 Want to check out the repo? Sure thing! Check out:
 
