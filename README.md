@@ -9,7 +9,7 @@ Check out my degree project for my Frontend Developer studies - a guide to help 
 
 Visit the deployed site --> [A Natural Guide to Gestational Diabetes](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸!
 
-Want to check out the repo? Sure thing! Check out the english version [here](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓 ✨️
+Want to check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes)? Sure thing! 🤓 ✨️
 
 ### Portfolio
 Among other projects, I created a [Portfolio](https://ayngie.github.io/portfolio2.0/) during first year of FE-studies, introducing myself as a frontend developer!
