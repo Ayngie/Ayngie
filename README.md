@@ -2,15 +2,23 @@
 
 Welcome to my GitHub!
 
+I am a Web Developer with a degree from Medieinstitutets Frontend Developer education (class of 2022-2024). 
+
 ### Degree project
-I've just finished working on my degree project for my Frontend Developer studies at Medieinstitutet Stockholm (2022-2024).
+Check out my degree project for my Frontend Developer studies - a guide to help women with Gestational Diabetes manage their blood sugar naturally!
 
-Visit the [deployed site](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸 for my degree project and check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓 ✨️
+Visit the [deployed site](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸 for my degree project and check out 
 
-(FYI that there is an identical repo for my degree project - just with a swedish title - [here](https://github.com/Ayngie/naturlig-guide-till-graviditetsdiabetes), to help people searching for info in swedish to get better chance of finding this information).
+- the [repo (ENGLISH VERSION)](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) 🤓 ✨️
+
+- the [repo (SWEDISH VERSION](https://github.com/Ayngie/naturlig-guide-till-graviditetsdiabetes)!
+
 
 ### Past school projects
-My public repos also include a variety of older school projects I have coded during my years at Medieinstitutet. Including (but not limited to :) ) a Portfolio built during first year of FE-studies, introducing myself as a frontend developer in training - view it live [here](https://ayngie.github.io/portfolio2.0/).
+I also have a variety of earlier school projects - coded during my years at Medieinstitutet. 
+
+Among other projects, I created a Portfolio during first year of FE-studies, introducing myself as a frontend developer. 
+- View it live [here](https://ayngie.github.io/portfolio2.0/)!
 
 Happy reading and happy coding!
 
