@@ -19,8 +19,7 @@ Want to check out the repo? Sure thing! Check out:
 ### Past school projects
 I also have a variety of earlier school projects - coded during my years at Medieinstitutet. 
 
-Among other projects, I created a Portfolio during first year of FE-studies, introducing myself as a frontend developer. 
-- View it live [here](https://ayngie.github.io/portfolio2.0/)!
+Among other projects, I created a [Portfolio](https://ayngie.github.io/portfolio2.0/) during first year of FE-studies, introducing myself as a frontend developer!
 
 Happy reading and happy coding!
 
