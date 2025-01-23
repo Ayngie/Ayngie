@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I am a Web Developer with a degree from Medieinstitutets Frontend Developer education (class of 2022-2024). 
 
-### Degree project
+### Degree project - A Natural Guide to Gestational Diabetes
 Check out my degree project for my Frontend Developer studies - a guide to help women with Gestational Diabetes manage their blood sugar naturally!
 
 Visit the deployed site [A Natural Guide to Gestational Diabetes](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸!
@@ -16,13 +16,16 @@ Want to check out the repo? Sure thing! Check out:
 - the repo (SWEDISH VERSION) [here](https://github.com/Ayngie/naturlig-guide-till-graviditetsdiabetes)!
 
 
-### Past school projects
-I also have a variety of earlier school projects - coded during my years at Medieinstitutet. 
-
+### Portfolio
 Among other projects, I created a [Portfolio](https://ayngie.github.io/portfolio2.0/) during first year of FE-studies, introducing myself as a frontend developer!
+
+
+### Past school projects
+My public repos also include a variety of earlier school projects - coded during my years at Medieinstitutet. 
 
 Happy reading and happy coding!
 
+Best,
 Ayngie
 
 <!--
