@@ -17,7 +17,7 @@ Don't miss checking out my degree project - a guide to help women with Gestation
 
 Visit the deployed site --> [A Natural Guide to Gestational Diabetes](https://ayngie.github.io/natural-guide-to-gestational-diabetes/) 🛸, and feel free to share it with anyone who you think can benefit from the information! ✨️
 
-If you're interested in seeing the code behind the site - check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes)! 🤓  
+If you're interested in seeing the code behind the site (built in React.js + Typescript, with Styled Components & lazy leading) - check out the [repo](https://github.com/Ayngie/natural-guide-to-gestational-diabetes)! 🤓  
 
 ### More recent projects?
 I am in the process of refactoring my degree project, as well as building a different (secret) project from scratch - stay tuned for these! 🤩
