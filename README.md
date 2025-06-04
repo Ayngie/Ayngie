@@ -16,7 +16,7 @@ Among other projects, I created a [Portfolio](https://github.com/Ayngie/portfoli
 Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
 
 ### More recent projects?
-I am in the process of refactoring my degree project, creating a new portfolio, as well as building a private passion project (secret for now) - stay tuned for these! 🤩
+I am in the process of refactoring my degree project, creating a new portfolio, as well as building a passion project (secret for now) - stay tuned for these! 🤩
 
 Meanwhile, I've also been playing around with tiny stuff like [health-guide](https://github.com/Ayngie/health-guide), and [bits-n-pieces](https://github.com/Ayngie/bits-n-pieces).
 
