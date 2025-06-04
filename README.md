@@ -25,7 +25,7 @@ View: [Source code](https://github.com/Ayngie/natural-guide-to-gestational-diabe
 
 
 ### More recent projects?
-I am in the process of refactoring my degree project, as well as building a different (secret) project from scratch - stay tuned for these! 🤩
+I am in the process of refactoring my degree project, creating a new portfolio, as well as building a different (secret) project from scratch - stay tuned for these! 🤩
 
 Meanwhile, I've also been playing around with tiny stuff like [health-guide](https://github.com/Ayngie/health-guide), and [bits-n-pieces](https://github.com/Ayngie/bits-n-pieces).
 
