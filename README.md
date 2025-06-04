@@ -10,19 +10,12 @@ I have a degree from Medieinstitutets 'Front End Developer' education (class of 
 My public repos include a variety of old school projects - coded throughout my years at Medieinstitutet. 
 
 ### Portfolio
-Among other projects, I created a vanilla JS +html/TypeScript/SCSS during first year of FE-studies, introducing myself as a Frontend Developer! 
-
-View: [Source code](https://github.com/Ayngie/portfolio2.0) / [Deployed site](https://ayngie.github.io/portfolio2.0/).
+Among other projects, I created a [Portfolio](https://github.com/Ayngie/portfolio2.0) during first year of FE-studies, introducing myself as a Frontend Developer! It is built in VanillaJS+html/TypeScript/SCSS.
 
 ### Degree project - A Natural Guide to Gestational Diabetes
-Don't miss checking out my degree project - a guide to help women with Gestational Diabetes manage their blood sugar naturally! 
+Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
 
-Visit the deployed site 🛸, and feel free to share it with anyone who you think can benefit from the information! ✨️
-
-If you're interested in seeing the code behind the site (built in React.js + Typescript, with Styled Components & lazy leading) - check it out! 🤓  
-
-View: [Source code](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) / [Deployed site](https://ayngie.github.io/natural-guide-to-gestational-diabetes/).
-
+Feel free to share it with anyone who you think can benefit from the information! ✨️
 
 ### More recent projects?
 I am in the process of refactoring my degree project, creating a new portfolio, as well as building a different (secret) project from scratch - stay tuned for these! 🤩
