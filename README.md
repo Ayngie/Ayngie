@@ -4,18 +4,18 @@ Welcome to my GitHub!
 
 I am a Front End Developer with Full Stack ambitions and a passion for health!
 
-I have a degree from Medieinstitutets 'Front End Developer' education (class of 2022-2024), which included quite a bit Back End development (API's, databases, etc).
-
-### Past school projects
-My public repos include a variety of old school projects - coded throughout my years at Medieinstitutet. 
+I have a degree from Medieinstitutet's 'Front End Developer' education (class of 2022-2024), which included quite a bit Back End development (API's, databases, MERN-stack, etc).
 
 ### Portfolio
-I recently uodated my [Portfolio (in React/TypeScript)](https://github.com/Ayngie/react-portfolio)!
+I recently built a new [Portfolio](https://github.com/Ayngie/react-portfolio) in React+TS+Vite+Scss, in which I introduce myself as a developer! A key focus here was a11y :)
 
-My GitHub also contains my previous, and [very first Portfolio (in VanillaJS+Html/TypeScript/SCSS)](https://github.com/Ayngie/portfolio2.0), built during first year of FE-studies.
+My [old)](https://github.com/Ayngie/portfolio2.0) one is also published, it is in VanillaJS+TS and was built during first year of FE-studies :)
 
 ### Degree project - A Natural Guide to Gestational Diabetes
 Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
+
+### Past school projects
+My public repos include a variety of old school projects - coded throughout my years at Medieinstitutet. 
 
 ### More recent projects?
 I am in the process of refactoring my degree project, creating a new portfolio, as well as building a passion project (secret for now) - stay tuned for these! 🤩
