@@ -10,7 +10,9 @@ I have a degree from Medieinstitutets 'Front End Developer' education (class of 
 My public repos include a variety of old school projects - coded throughout my years at Medieinstitutet. 
 
 ### Portfolio
-Among other projects, I created a [Portfolio](https://github.com/Ayngie/portfolio2.0) during first year of FE-studies, introducing myself as a Frontend Developer! It is built in VanillaJS+html/TypeScript/SCSS.
+I recently uodated my [Portfolio (in React/TypeScript)](https://github.com/Ayngie/react-portfolio)!
+
+My GitHub also contains my previous, and [very first Portfolio (in VanillaJS+Html/TypeScript/SCSS)](https://github.com/Ayngie/portfolio2.0), built during first year of FE-studies.
 
 ### Degree project - A Natural Guide to Gestational Diabetes
 Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
