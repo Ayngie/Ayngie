@@ -17,8 +17,8 @@ Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-gu
 ### Past school projects 😶‍🌫️
 My public repos include a variety of old school projects - coded throughout my years at Medieinstitutet. 
 
-### More recent projects? 🤸‍♀️
-I am in the process of refactoring my degree project, creating a new portfolio, as well as building a passion project (secret for now) - stay tuned for these! 🤩
+### Other projects? 🤸‍♀️
+I am in the process of building a passion project (secret for now) - stay tuned for that! 🤩
 
 Meanwhile, I've also been playing around with tiny stuff like [health-guide](https://github.com/Ayngie/health-guide), and some other bits-n-pieces... 
 
