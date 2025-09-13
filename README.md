@@ -13,8 +13,6 @@ Feel free to contact me for job opportunities meanwhile!
 ### Portfolio 🤓
 I recently built a new [Portfolio](https://github.com/Ayngie/react-portfolio) in React+TS+Vite+Scss, in which I introduce myself as a developer! A key focus here was a11y :)
 
-(My [old](https://github.com/Ayngie/portfolio2.0) one is also published, it is in VanillaJS+TS and was built during first year of FE-studies).
-
 ### Degree project - A Natural Guide to Gestational Diabetes 🤰
 Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
 
