@@ -2,26 +2,25 @@
 
 ✨️ Welcome to my GitHub! ✨️
 
-I am a Front End Developer with Full Stack ambitions and a passion for health! 🙋‍♀️
+I am a Software Developer with a passion for health! 🙋‍♀️ 
 
 I have a degree from Medieinstitutet's 'Front End Developer' education (class of 2022-2024), which included quite a bit Back End development (API's, databases, MERN-stack, etc).
 
-Currently I'm furthering my back end skills at Medieistitutets System Developer .Net education (Systemutvecklare .Net, class of 2025-2027).
-
-Feel free to contact me for job opportunities meanwhile! 
+While furthering my back end skills at Medieistitutets System Developer .Net education (Systemutvecklare .Net, class of 2025-2027), I landed my first developer job! So now, as of October '25, I am out working with code IRL! Amazing to finally partake in this field of work! 
 
 ### Portfolio 🤓
-I recently built a new [Portfolio](https://github.com/Ayngie/react-portfolio) in React+TS+Vite+Scss, in which I introduce myself as a developer! A key focus here was a11y :)
+Spring of 2025 I built a [Portfolio](https://github.com/Ayngie/react-portfolio) in React+TS+Vite+Scss, in which I introduce myself as a developer! A key focus here was a11y :)
+
 
 ### Degree project - A Natural Guide to Gestational Diabetes 🤰
-Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
+Don't miss checking out my [Degree Project](https://github.com/Ayngie/natural-guide-to-gestational-diabetes) from my FrontEnd studies - a guide to help women with Gestational Diabetes manage their blood sugar naturally! It is built in React.js+TypeScript (with Styled Components and Lazy Loading).
+
 
 ### School projects 😶‍🌫️
-If you follow me, you will see that my public repos will grow to include more and more school projects as I finish assignments for my current studies at Medieinsitutet.
-My repositories also include a variety of old school projects - coded throughout my previous years at Medieinstitutet. 
+My public repos include some newer projects from my brief time at System Developer .Net education, then there are a variety of older school projects from my previous studies at Medieinstitutet. 
 
 ### Other projects? 🤸‍♀️
-I am in the process of building a passion project (secret for now) - stay tuned for that! 🤩
+I have a passion project that I am developing (secret for now) - stay tuned for that! 🤩
 
 Past playfull projects include tiny stuff like [health-guide](https://github.com/Ayngie/health-guide), and some other  [bits-n-pieces](https://github.com/Ayngie/bits-n-pieces)... 
 
