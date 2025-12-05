@@ -6,7 +6,7 @@ I am a Software Developer with a passion for health! 🙋‍♀️
 
 I have a degree from Medieinstitutet's 'Front End Developer' education (class of 2022-2024), which included quite a bit Back End development (API's, databases, MERN-stack, etc).
 
-While furthering my back end skills at Medieistitutets System Developer .Net education (Systemutvecklare .Net, class of 2025-2027), I landed my first developer job! So now, as of October '25, I am out working with code IRL! Amazing to finally partake in this field of work! 
+While furthering my back end skills at Medieistitutets System Developer .Net education (Systemutvecklare .Net, class of 2025-2027), I landed my first developer job! So now, as of October '25, I am out working with code IRL! Amazing to finally partake in this field of work! I am currently working with ASP.Net, C#, React, TypeScript and SQL 🤩
 
 ### Portfolio 🤓
 Spring of 2025 I built a [Portfolio](https://github.com/Ayngie/react-portfolio) in React+TS+Vite+Scss, in which I introduce myself as a developer! A key focus here was a11y :)
